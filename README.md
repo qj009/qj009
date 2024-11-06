@@ -13,17 +13,17 @@
 ---
 ## My Publications
 
-[1] Xu, X., **Jia, Q.**, Li, S., Wei, J., Ming, L., Yu, Q., Jiang, J., Zhang, P., Yao, H., Wang, S., Xia, C., Wang, K., Jia, Z. and Xie, W. (2024), **[Redefining the accumulated temperature index for accurate prediction of rice flowering time in diverse environments](https://doi.org/10.1111/pbi.14498)**. Plant Biotechnol. J.
+[1] Xu, X., **Jia, Q.**, Li, S., Wei, J., Ming, L., Yu, Q., Jiang, J., Zhang, P., Yao, H., Wang, S., Xia, C., Wang, K., Jia, Z. and Xie, W. (2024). **[Redefining the accumulated temperature index for accurate prediction of rice flowering time in diverse environments](https://doi.org/10.1111/pbi.14498)**. Plant Biotechnol. J.
 
 [2]	Shi, Y., Zhang, W., **Jia, Q.**, Zhong, X., Iyer, P., Wu, H., ... & Sun, Z. (2024). **[Cancer-associated SF3B1-K700E mutation controls immune responses by regulating Treg function via aberrant Anapc13 splicing](https://doi.org/10.1126/sciadv.ado4274)**. Science Advances, 10(38), eado4274.
 
 [3]	Fernandez, M., Yu, L., **Jia, Q.**, Wang, X., Hart, K. L., Jia, Z., ... & Wang, L. (2024). **[Engineering oncogenic hotspot mutations on SF3B1 via CRISPR-directed PRECIS mutagenesis](https://doi.org/10.1158/2767-9764.crc-24-0145)**. Cancer Research Communications.
 
-[4]	Hartiala, J.A., Han, Y., **Jia, Q.**, Hilser, J.R., Huang, P., Gukasyan, J., Schwartzman, W.S., Cai, Z., Biswas, S., Tregouet, D.A. and Smith, N.L., 2021. **[Genome-wide analysis identifies novel susceptibility loci for myocardial infarction](https://doi.org/10.1093/eurheartj/ehaa1040)**. European heart journal, 42(9), pp.919-933.
+[4]	Hartiala, J.A., Han, Y., **Jia, Q.**, Hilser, J.R., Huang, P., Gukasyan, J.,... & Allayee, H. (2021). **[Genome-wide analysis identifies novel susceptibility loci for myocardial infarction](https://doi.org/10.1093/eurheartj/ehaa1040)**. European heart journal, 42(9), pp.919-933.
 
-[5]	Han, Y., **Jia, Q.**, Jahani, P.S., Hurrell, B.P., Pan, C., Huang, P., Gukasyan, J., Woodward, N.C., Eskin, E., Gilliland, F.D. and Akbari, O., 2020. **[Genome-wide analysis highlights contribution of immune system pathways to the genetic architecture of asthma](https://doi.org/10.1038/s41467-020-15649-3)**. Nature communications, 11(1), p.1776
+[5]	Han, Y., **Jia, Q.**, Jahani, P.S., Hurrell, B.P., Pan, C., Huang, P., ... & Allayee, H. (2020). **[Genome-wide analysis highlights contribution of immune system pathways to the genetic architecture of asthma](https://doi.org/10.1038/s41467-020-15649-3)**. Nature communications, 11(1), p.1776
 
-[6]	**Jia, Q.**, Han, Y., Huang, P., Woodward, N.C., Gukasyan, J., Kettunen, J., Ala‐Korpela, M., Anufrieva, O., Wang, Q., Perola, M. and Raitakari, O., 2019. **[Genetic determinants of circulating glycine levels and risk of coronary artery disease](https://doi.org/10.1161/JAHA.119.011922)**. Journal of the American Heart Association, 8(10), p.e011922.
+[6]	**Jia, Q.**, Han, Y., Huang, P., Woodward, N.C., Gukasyan, J., Kettunen, J., ... & Allayee, H. (2019). **[Genetic determinants of circulating glycine levels and risk of coronary artery disease](https://doi.org/10.1161/JAHA.119.011922)**. Journal of the American Heart Association, 8(10), p.e011922.
 
 
 
