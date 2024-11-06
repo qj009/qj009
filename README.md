@@ -1,6 +1,6 @@
 ## About
 
-🎓 Ph.D in Genetics Genomics & Bioinformaitcs,[University of California, Riverside (UCR), Jia lab](https://sites.google.com/ucr.edu/jia-lab-ucr/home)
+🎓 Ph.D in Genetics Genomics & Bioinformaitcs, [University of California, Riverside (UCR), Jia lab](https://sites.google.com/ucr.edu/jia-lab-ucr/home)
 
 🎓 M.S in Biomedical Engineering, Universiyt of Southern California (USC)
 
