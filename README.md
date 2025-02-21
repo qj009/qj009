@@ -8,7 +8,6 @@
 
 💻 Research area: GWAS | Genomic prediction | NGS data analysis 
 
-👀 Open to full time jobs in U.S.
 
 ---
 ## My Publications
